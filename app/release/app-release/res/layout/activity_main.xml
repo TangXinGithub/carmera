@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/activity_main" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/take_photo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Take photo" />
+    <Button android:id="@id/choose_from_album" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Choose From Album" />
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/picture" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

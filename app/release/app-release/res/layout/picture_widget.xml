@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@android:color/transparent" android:padding="@dimen/widget_margin" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerVertical="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/imageview1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/imgico" />
+</RelativeLayout>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">桌面小部件</string>
+    <string name="appwidget_text">HelloWord</string>
+    <string name="add_widget">Add widget</string>
+</resources>
